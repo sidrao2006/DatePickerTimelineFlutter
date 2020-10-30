@@ -69,7 +69,7 @@ DatePicker(
 Author
 ------
 
-* [Vivek Kaushik](http://github.com/iamvivekkaushik/)
+* [Vivek Kaushik](https://github.com/iamvivekkaushik/)
 
 
 Contributors
